@@ -1,0 +1,8 @@
+{
+  "fedex": {
+    "sandboxBaseUrl": "https://apis-sandbox.fedex.com",
+    "productionBaseUrl": "https://apis.fedex.com",
+    "timeoutMs": 30000,
+    "tokenRefreshBufferMs": 300000
+  }
+}
